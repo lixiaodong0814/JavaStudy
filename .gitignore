@@ -1,2 +1,1 @@
-#忽略所有.class结尾的文件
-*.class
+/bin
