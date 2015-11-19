@@ -1,1 +1,4 @@
 teset bug branch
+I am going to commit hello.txt
+teset bug branch
+another people commit
